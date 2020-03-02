@@ -10,23 +10,3 @@
 
     * Utilisable avec le pattern [C][O][M]
 
-
-
-
-
-    
-        lorem Ipsum is simply dummy text of the printing and 
-        typesetting industry. (ex: Lorem ipsum dolor sit amet, 
-        consectetur adipiscing elit)
-
-        Lorem Ipsum is simply dummy text of the printing and 
-        typesetting industry. (ex: Lorem ipsum dolor sit amet, 
-        consectetur adipiscing elit)
-
-        Lorem Ipsum is simply dummy text of the printing and 
-        typesetting industry. (ex: Lorem ipsum dolor sit amet, 
-        consectetur adipiscing elit)
-
-        Lorem Ipsum is simply dummy text of the printing and 
-        typesetting industry. (ex: Lorem ipsum dolor sit amet, 
-        consectetur adipiscing elit)

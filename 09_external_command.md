@@ -8,17 +8,3 @@
     * Read : `:r !date`
 
     * Read files : `r: filename`
-
-
-
-
-
-
-
-
-- Une date :
-
-- Le répertoire courant :
-
-- lsblk ? 
-
