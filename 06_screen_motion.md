@@ -5,7 +5,7 @@
 
     * `Ctrl-u`, `Ctrl-d`
 
-    * `Alt-j`, `Alt-k`
+    * `Ctrl-f`, `Ctrl-b`
 
     * `zz`, `zt` ,`zb`
 

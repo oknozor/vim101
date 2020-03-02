@@ -9,4 +9,4 @@
 
     * Baby steps
 
-    * [C]ount [O]operator [M]otion
+    * [C]ount [O]perator [M]otion
